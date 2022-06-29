@@ -1,5 +1,5 @@
 # socket5-proc
-none
+
 一个基于tcp、sockes5的代理服务器端，明文传输，多进程处理客户端连接。
 
 客户端采用Proxifier测试。
