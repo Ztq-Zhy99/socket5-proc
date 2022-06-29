@@ -8,6 +8,7 @@
 
 
 #gcc main.h socks5_struct.h main.c con_com.c -o test
+
 #./test 9090
 
 
